@@ -1,3 +1,3 @@
-# CS567-Algorithms
+# Graph-Algorithm
 
-Implemented Dijkstra's Algorithm.
+Implemented Dijkstra's Algorithm in C++.
